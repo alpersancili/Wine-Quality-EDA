@@ -46,7 +46,7 @@ matplotlib
 seaborn
 plotly (optional)
 
-## Acknowledgment
+## Acknowledgement
 
 This project was completed with guidance from Atıl Samancıoğlu, whose educational content helped structure and inspire this analysis.
 
